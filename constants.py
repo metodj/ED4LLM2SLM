@@ -1,0 +1,2 @@
+PAD_TOKEN = '^'
+MAX_LENGTH = 1024
